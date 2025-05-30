@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Badd Bizz | BizzyTown Links</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Bebas Neue', sans-serif;
+      background: url('https://i.postimg.cc/x8xqgtfW/Screenshot-20250530-122211-Photo-Editor.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #f1f1f1;
+      text-align: center;
+      padding: 20px;
+    }
+    .header-img {
+      width: 85%;
+      max-width: 600px;
+      margin: 0 auto 30px;
+      display: block;
+    }
+    .link-button {
+      display: block;
+      width: 90%;
+      max-width: 400px;
+      background: linear-gradient(135deg, #ff4d4d, #b30000);
+      color: white;
+      padding: 16px;
+      margin: 15px auto;
+      border-radius: 12px;
+      font-size: 1.2rem;
+      text-decoration: none;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+      transition: 0.3s;
+    }
+    .link-button:hover {
+      background: linear-gradient(135deg, #cc0000, #800000);
+      transform: scale(1.03);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Name Image -->
+  <img src="https://i.postimg.cc/zvm2fbyM/file-00000000927861f8a02a0f8b70f9c938-1.png" alt="Badd Bizz Header" class="header-img">
+
+  <!-- Main Buttons -->
+  <a class="link-button" href="https://youtu.be/FcAnvAnkNCU?si=_Txm9xMHxM1NJUxF" target="_blank">🎥 Watch "I Get Stupid" Music Video</a>
+  <a class="link-button" href="https://www.instagram.com/baddbizz" target="_blank">📸 Follow on Instagram</a>
+  <a class="link-button" href="https://www.facebook.com/BaddBizz" target="_blank">📘 Like on Facebook</a>
+  <a class="link-button" href="https://www.tiktok.com/@baddbizzbx" target="_blank">🎵 Follow on TikTok</a>
+  <a class="link-button" href="https://open.spotify.com/intl-id/artist/4nJk5BGAuvhWghqi6LRjHd" target="_blank">🎧 Listen on Spotify</a>
+  <a class="link-button" href="https://music.apple.com/us/artist/badd-bizz/1536425056" target="_blank">🍏 Listen on Apple Music</a>
+  <a class="link-button" href="https://www.youtube.com/@BaddBizzBTE" target="_blank">▶️ Watch on YouTube</a>
+  <a class="link-button" href="#" target="_blank">🧢 BizzyTown Clothing – Coming Soon</a>
+  <a class="link-button" href="mailto:baddbizzbte@gmail.com">📧 Contact / Book Badd Bizz</a>
+
+</body>
+</html>
